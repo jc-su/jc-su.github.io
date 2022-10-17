@@ -16,7 +16,7 @@ jianchang.su{AT}fau.de
 - Implemented multiple acceleration methods in GEMM, convolution, and neural network inference via CUDA.
 - Quantization and pruned model for acceleration via TensoRT on Jetson Xavier.
 
-### Deep Learning Compiler and TensorRT acceleration [[Code]](https://github.com/jc-su/tvm_tensorrt_comparsion) [[Presentation]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/MAP_Project.pdf) [[Report(Not allow to open yet)]]()
+### Deep Learning Compiler for  Neural Network Inference Acceleration [[Code]](https://github.com/jc-su/tvm_tensorrt_comparsion) [[Presentation]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/MAP_Project.pdf) [[Report(Not allow to open yet)]]()
 - Benchmarking TVM kernel level tuning, graph level tuning, and cost-model optimization.
 - Tested the optimization results of the TensorRT deployment at different precisions.
 
