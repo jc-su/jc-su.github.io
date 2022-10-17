@@ -4,7 +4,7 @@ I am a graduate student at Department of Computer Science, [FAU Erlangen-Nürnbe
 My research interests include Distributed Machine learning Systems, Graph Neural Networks and Deep Learning Compiler. Below are some specific topics I am interested:
 * Distributed Large-Scale and Affordable GNN Training
 * Scalable Deep Learning Deployment
-* Edge Cloud Computing
+* Serverless Computing
 * Deep Learning Compiler (e.g., TVM, MLIR)
 * High Performance Computing Architecture and System
 
