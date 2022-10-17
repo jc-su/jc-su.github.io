@@ -1,7 +1,7 @@
 ## Bio
 I am a graduate student at Department of Computer Science, [FAU Erlangen-Nürnberg](https://www.fau.eu/), starting from 2021. Previously I was an undergraduate student from [Shanghai Normal University](https://english.shnu.edu.cn/) and received my B.Eng. degree in Electronic Information Engineering, 2020.
 
-My research interests include Distributed Machine learning Systems, Graph Neural Networks and Deep Learning Compiler. Below are some topics specifically I am interested:
+My research interests include Distributed Machine learning Systems, Graph Neural Networks and Deep Learning Compiler. Below are some specific topics I am interested:
 * Distributed Large-Scale and Affordable GNN Training
 * Scalable Deep Learning Deployment
 * Edge Cloud Computing
@@ -27,7 +27,7 @@ jianchang.su{AT}fau.de
 
 ## Publications
 
-1. **Jianchang Su** & Yan, Ma. (2019). Image segmentation algorithm based on superpixel and K-means. Computer Ear, 2. [[PDF]]()
+1. **Jianchang, Su** & Yan, Ma. (2019). Image segmentation algorithm based on superpixel and K-means. Computer Ear, 2. [[PDF]]()
 
 ## Experience
 
