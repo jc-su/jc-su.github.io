@@ -5,7 +5,7 @@ My research interests include Distributed Machine learning Systems, Graph Neural
 * Distributed Large-Scale and Affordable GNN Training
 * Scalable Deep Learning Deployment
 * Edge Cloud Computing
-* Deep Learning compiler (e.g., TVM)
+* Deep Learning Compiler (e.g., TVM, MLIR)
 * High Performance Computing Architecture and System
 
 ## Contact
