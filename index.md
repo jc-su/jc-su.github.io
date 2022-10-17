@@ -13,17 +13,16 @@ jianchang.su{AT}fau.de
 
 ## Projects
 ### Accelerating Neural Network Inference on Nvidia GPU [[Code]](https://github.com/jc-su/NN-Acceleration) [[Presentation]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/NN-Acc-Pre.pdf) [[Report]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/RADL_GPU.pdf)
-- Implemented multiple acceleration methods in GEMM and convolution.
-- Implemented neural network inference via CUDA.
-- Pruned and quantified the model for performance benchmark.
+- Implemented multiple acceleration methods in GEMM, convolution, and neural network inference via CUDA.
+- Quantization and pruned model for acceleration via TensoRT on Jetson Xavier.
 
 ### Deep Learning Compiler and TensorRT acceleration [[Code]](https://github.com/jc-su/tvm_tensorrt_comparsion) [[Presentation]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/MAP_Project.pdf) [[Report(Not allow to open yet)]]()
-- Benchmarking TVM kernel level tuning, graph level tuning and cost-model optimazation.
-- Tested the optimization effect of the TensorRT deployment model at different precisions.
+- Benchmarking TVM kernel level tuning, graph level tuning, and cost-model optimization.
+- Tested the optimization results of the TensorRT deployment at different precisions.
 
 ### Digitizing Jewish Gravestone by Deep Learning Techniques  [[Report]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/OCR.pdf)
-- Proposed a new method combined U-Net and YOLO for gravestone segmentation and text detection.
-- Builded a dataset for Jewish tombstone Hebrew text detection and recognition.
+- Proposed a new method that combined U-Net and YOLO for gravestone segmentation and text detection.
+- Built a dataset for Jewish tombstone Hebrew text detection and recognition.
 
 ## Publications
 
