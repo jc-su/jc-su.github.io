@@ -29,7 +29,7 @@ jianchang.su{AT}fau.de
 
 1. **Su, Jianchang** & Ma, Yan. (2019). Image segmentation algorithm based on superpixel and K-means. Computer Era, 2. [[PDF]]()
 
-## Experience
+## Experiences
 
 - Software Development Engineer In Test, Shanghai Shuli Intelligent Technology Co., Ltd. Aug 2017 - Nov 2017
 - Software Development Engineer, Shanghai Science and Technology Innovation Resources Center, Oct 2019 - Jan 2020
