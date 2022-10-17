@@ -7,6 +7,7 @@ My research interests include Distributed Machine learning Systems, Graph Neural
 * Serverless Computing
 * Deep Learning Compiler (e.g., TVM, MLIR)
 * High Performance Computing Architecture and System
+* Edge Cloud Computing
 
 ## Contact
 jianchang.su{AT}fau.de
