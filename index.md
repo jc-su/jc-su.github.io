@@ -1,6 +1,3 @@
-## Contact
-jianchang.su{AT}fau.de
-
 ## Bio
 I am a graduate student at Department of Computer Science, [FAU Erlangen-Nürnberg](https://www.fau.eu/), starting from 2021. Previously I was an undergraduate student from [Shanghai Normal University](https://english.shnu.edu.cn/) and received my B.Eng. degree in Electronic Information Engineering, 2020.
 
@@ -11,24 +8,26 @@ My research interests include Distributed Machine learning Systems, Graph Neural
 * Deep Learning compiler (e.g., TVM)
 * High Performance Computing Architecture and System
 
+## Contact
+jianchang.su{AT}fau.de
 
 ## Projects
-### Accelerating Neural Network Inference on Nvidia GPU [[Code]](https://github.com/jc-su/NN-Acceleration) [[Presentation]]() [[Report]]()
+### Accelerating Neural Network Inference on Nvidia GPU [[Code]](https://github.com/jc-su/NN-Acceleration) [[Presentation]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/NN-Acc-Pre.pdf) [[Report]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/RADL_GPU.pdf)
 - Implemented multiple acceleration methods in GEMM and convolution.
 - Implemented neural network inference via CUDA.
 - Pruned and quantified the model for performance benchmark.
 
-### Deep Learning Compiler and TensorRT acceleration [[Code]](https://github.com/jc-su/tvm_tensorrt_comparsion) [[Presentation]]() [[Report]]()
+### Deep Learning Compiler and TensorRT acceleration [[Code]](https://github.com/jc-su/tvm_tensorrt_comparsion) [[Presentation]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/MAP_Project.pdf) [[Report(Not allow to open yet)]]()
 - Benchmarking TVM kernel level tuning, graph level tuning and cost-model optimazation.
 - Tested the optimization effect of the TensorRT deployment model at different precisions.
 
-### Digitizing Jewish Gravestone by Deep Learning Techniques  [[Report]]()
+### Digitizing Jewish Gravestone by Deep Learning Techniques  [[Report]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/OCR.pdf)
 - Proposed a new method combined U-Net and YOLO for gravestone segmentation and text detection.
 - Builded a dataset for Jewish tombstone Hebrew text detection and recognition.
 
 ## Publications
 
-[1] **Jianchang Su** & Yan, Ma. (2019). Image segmentation algorithm based on superpixel and K-means. Computer Ear, 2 [[PDF]]()
+1. **Jianchang Su** & Yan, Ma. (2019). Image segmentation algorithm based on superpixel and K-means. Computer Ear, 2. [[PDF]]()
 
 ## Experience
 
