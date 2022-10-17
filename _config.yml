@@ -1,5 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 logo: /resources/ME.png
 title: Jianchang Su
-description: Personal Page.
-show_downloads: [true]
+url: https://jianchang.su
