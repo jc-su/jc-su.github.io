@@ -27,7 +27,7 @@ jianchang.su{AT}fau.de
 
 ## Publications
 
-1. **Jianchang, Su** & Yan, Ma. (2019). Image segmentation algorithm based on superpixel and K-means. Computer Ear, 2. [[PDF]]()
+1. **Su, Jianchang** & Ma, Yan. (2019). Image segmentation algorithm based on superpixel and K-means. Computer Ear, 2. [[PDF]]()
 
 ## Experience
 
