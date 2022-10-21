@@ -13,11 +13,11 @@ My research interests include Distributed Machine learning Systems, Graph Neural
 jianchang.su{AT}fau.de
 
 ## Projects
-### Accelerating Neural Network Inference on Nvidia GPU [[Code]](https://github.com/jc-su/NN-Acceleration) [[Presentation]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/NN-Acc-Pre.pdf) [[Report]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/RADL_GPU.pdf)
+### Accelerating Neural Network Inference on Nvidia GPU [[Code]](https://github.com/jc-su/NN-Acceleration) [[Slide]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/NN-Acc-Pre.pdf) [[Report]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/RADL_GPU.pdf)
 - Implemented multiple acceleration methods in GEMM, convolution, and neural network inference via CUDA.
 - Quantization and pruned model for acceleration via TensoRT on Jetson Xavier.
 
-### Deep Learning Compiler for  Neural Network Inference Acceleration [[Code]](https://github.com/jc-su/tvm_tensorrt_comparsion) [[Presentation]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/MAP_Project.pdf) [[Report(Not allow to open yet)]]()
+### Deep Learning Compiler for  Neural Network Inference Acceleration [[Code]](https://github.com/jc-su/tvm_tensorrt_comparsion) [[Slide]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/MAP_Project.pdf)
 - Benchmarking TVM kernel level tuning, graph level tuning, and cost-model optimization.
 - Tested the optimization results of the TensorRT deployment at different precisions.
 
