@@ -19,11 +19,11 @@ jianchang.su{AT}fau.de
 
 ### Deep Learning Compiler for  Neural Network Inference Acceleration [[Code]](https://github.com/jc-su/tvm_tensorrt_comparsion) [[Slide]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/MAP_Project.pdf)
 - Benchmarking TVM kernel level tuning, graph level tuning, and cost-model optimization.
-- Tested the optimization results of the TensorRT deployment at different precisions.
+- Conducted an in-depth analysis of the pros and cons of the benachmarking results and correlated factors.
 
 ### Digitizing Jewish Gravestone by Deep Learning Techniques  [[Report]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/OCR.pdf)
-- Proposed a new method that combined U-Net and YOLO for gravestone segmentation and text detection.
-- Built a dataset for Jewish tombstone Hebrew text detection and recognition.
+- Implemented multiple acceleration methods in GEMM, convolution, and neural network inference via CUDA; reached theoretical GPU performance with optimized GEMM.
+- Utilized TensoRT and Pytorch to realize quantization and pruned model for acceleration, which improved inference performance by 72\% while lowered the inference accuracy by only 2.2%.
 
 ## Publications
 
