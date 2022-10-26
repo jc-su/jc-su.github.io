@@ -11,6 +11,8 @@ My research aims to improve scalability and efficiency of computer systems with 
 
 ## Contact
 jianchang.su{AT}fau.de
+[[CV]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/CV_Jianchang.pdf)
+[[LinkedIn]](https://www.linkedin.com/in/jcsu/)
 
 ## Projects
 ### Accelerating Neural Network Inference on Nvidia GPU [[Code]](https://github.com/jc-su/NN-Acceleration) [[Slide]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/NN-Acc-Pre.pdf) [[Report]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/RADL_GPU.pdf)
@@ -23,7 +25,7 @@ jianchang.su{AT}fau.de
 
 ### Digitizing Jewish Gravestone by Deep Learning Techniques  [[Report]](https://github.com/jc-su/jc-su.github.io/raw/main/resources/OCR.pdf)
 - Implemented multiple acceleration methods in GEMM, convolution, and neural network inference via CUDA; reached theoretical GPU performance with optimized GEMM.
-- Utilized TensoRT and Pytorch to realize quantization and pruned model for acceleration, which improved inference performance by 72\% while lowered the inference accuracy by only 2.2%.
+- Utilized TensoRT and Pytorch to realize quantization and pruned model for acceleration, which improved inference performance by 72% while lowered the inference accuracy by only 2.2%.
 
 ## Publications
 
