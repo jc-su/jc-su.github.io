@@ -2,12 +2,11 @@
 I am currently a graduate student at Department of Computer Science, [FAU Erlangen-Nürnberg](https://www.fau.eu/), starting from 2021. Previously I was an undergraduate student from [Shanghai Normal University](https://english.shnu.edu.cn/) and received my B.Eng. degree in Electronic Information Engineering, 2020.
 
 My research aims to improve scalability and efficiency of computer systems with a focus on Machine Learning Systems. Below are some specific topics I am interested:
-* Distributed Large-Scale and Affordable GNN Training
+* Distributed Large-Scale and Affordable DNN Training
 * Scalable Deep Learning Deployment
 * Serverless Computing
 * Deep Learning Compiler (e.g., TVM, MLIR)
 * High Performance Computing Architecture and System
-* Edge Cloud Computing
 
 ## Contact
 jianchang.su{AT}fau.de
