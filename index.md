@@ -6,7 +6,6 @@ My research aims to improve scalability and efficiency of computer systems with 
 * Scalable Deep Learning Deployment
 * Serverless Computing
 * Deep Learning Compiler (e.g., TVM, MLIR)
-* High Performance Computing Architecture and System
 
 ## Contact
 jianchang.su{AT}fau.de
